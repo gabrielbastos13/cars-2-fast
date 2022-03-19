@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+     @apply bg-[#23033f] text-gray-300;
+  }
+  .heighticons {
+    height: 2rem;
+    margin-bottom: 0.4rem;
+  }
+}
