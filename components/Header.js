@@ -1,7 +1,6 @@
 import { BadgeCheckIcon, CollectionIcon, HomeIcon, LightningBoltIcon, SearchIcon, UserIcon } from "@heroicons/react/outline"
 
 import Image from 'next/image'
-import headerTitle from '../public/headerTitle.png'
 import HeaderItem from './HeaderItem'
 
 function Header() {
