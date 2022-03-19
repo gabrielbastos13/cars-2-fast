@@ -17,7 +17,7 @@ function Header() {
           </div>   
           <Image
             className="object-contain"
-            src={headerTitle}
+            src="https://github.com/gabrielbastos13/cars-2-fast/blob/master/public/headertitle.png?raw=true"
             width={200}
             height={100}
             />
